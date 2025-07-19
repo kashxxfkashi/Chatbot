@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 28390563))
-API_HASH = getenv("API_HASH", "b9f15e071dec42eedfc1954f12f53f2b")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "6690693429"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", None)
-UPDATE_CHNL = getenv("UPDATE_CHNL", None)
-OWNER_USERNAME = getenv("OWNER_USERNAME", None)
+API_ID = int(getenv("API_ID", "27306108"))
+API_HASH = getenv("API_HASH", "cde16d68e439064b3194cb369a56d905")
+BOT_TOKEN = getenv("BOT_TOKEN", "7774568260:AAFU-qPg8FNCmlyFRAfnB5CbBKxyUO1lUbY")
+OWNER_ID = int(getenv("OWNER_ID", "6815934546"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://luffyluffyyy1:uXnGuZAG0zbxGOjL@cluster0.rmyxhem.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "-1002850144892")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "-4863774167")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@mrluppp")
 
 # Random Start Images
 IMG = [
